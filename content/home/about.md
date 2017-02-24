@@ -10,33 +10,37 @@ widget = "about"
 weight = 1
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+# [interests]
+#   interests = [
+#     "Artificial Intelligence",
+#     "Computational Linguistics",
+#     "Information Retrieval"
+#   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+# [[education.courses]]
+#   course = "PhD in Artificial Intelligence"
+#   institution = "Stanford University"
+#   year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+# [[education.courses]]
+#   course = "MEng in Artificial Intelligence"
+#   institution = "Massachusetts Institute of Technology"
+#   year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+# [[education.courses]]
+#   course = "BSc in Artificial Intelligence"
+#   institution = "Massachusetts Institute of Technology"
+#   year = 2008
  
 +++
 
-# Biography
+# About
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to RPI Game Dev Club! We’re a group of students who love playing, designing, and most importantly, making games. Week seek to provide tools and resources for beginners and veterans in game development and always encourage showing off your latest accomplishments, big or small.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Every Wednesday we meet to show off work and experiment with different design practices in games.
+
+Saturdays we get into the nitty gritty and learn new technical skills either through our various workshops or exhausting ourselves during a 24 hour game jam.
+
+New or experienced, artist or programmer, you’ll always have something new to learn so you can make great games.
