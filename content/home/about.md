@@ -37,7 +37,7 @@ weight = 1
 
 # About
 
-Welcome to RPI Game Dev Club! We’re a group of students who love playing, designing, and most importantly, making games. Week seek to provide tools and resources for beginners and veterans in game development and always encourage showing off your latest accomplishments, big or small.
+Welcome to RPI Game Dev Club! We’re a group of students who love playing, designing, and most importantly, making games. We seek to provide tools and resources for beginners and veterans in game development and always encourage showing off your latest accomplishments, big or small.
 
 Every Wednesday we meet to show off work and experiment with different design practices in games.
 
