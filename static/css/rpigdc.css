@@ -1,0 +1,31 @@
+/***** RPI Game Dev Club theme for Hugo Academic *****/
+
+
+/*** Navbar ***/
+.navbar-default {
+    background: #BA0600
+}
+
+/* Color of brand name */
+.navbar-default .navbar-brand {
+    color: #fff
+}
+
+/* Default text color */
+.navbar-default .navbar-nav>li>a {
+    color: #fff
+}
+
+/* Focused text color */
+/* FIXME */
+.navbar-default .navbar-nav>a:focus,
+.navbar-default .navbar-nav>a:hover {
+    color: #ffbbbc
+}
+
+/* Color of current page text */
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+    color: #ffbbbc
+}
